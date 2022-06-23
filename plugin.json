@@ -1,5 +1,5 @@
 {
-    "id": "aks-clusters",
+    "id": "aks-clusters-custom",
     "version": "2.0.2",
     "meta": {
         "label": "AKS clusters",
